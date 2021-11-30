@@ -1,5 +1,5 @@
 # Description
-Kill Process is an Alfred workflow that makes it easy to kill misbehaving processes. It is, in essence, a way to easily find processes by name and kill them using `kill -9`.
+Kill Process is an Alfred 4 workflow that makes it easy to kill misbehaving processes. It is, in essence, a way to easily find processes by name and kill them using `kill -9`.
 
 # Features
 * Autocompletes process names
